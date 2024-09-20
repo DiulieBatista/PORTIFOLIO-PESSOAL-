@@ -1,0 +1,52 @@
+
+.logo{
+
+    max-width: 100px;
+}
+
+header{
+
+background-image: url(img/imagem\ 2.jpg);
+background-size: cover;
+background-repeat:no-repeat;
+background-position: center ;
+height:300px;
+
+}
+
+
+
+.nav-item{
+
+margin-left: 50px;
+
+}
+
+.nav-link{
+color: #ccc;
+
+
+}
+form{
+
+padding:5px;
+
+
+}
+form label {
+    font-weight: bolder;
+
+}
+form input:hover,select:hover,textarea:hover{
+
+background-color: rgb(250, 246, 246);
+
+}
+
+form textarea{
+    resize: nome;
+}
+
+.bg {
+    background-color: #c9c884;
+}
